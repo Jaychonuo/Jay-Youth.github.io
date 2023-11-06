@@ -6,22 +6,21 @@ layout: page
 
 <img src="https://jaychonuo.github.io/zhoujiayong.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Jiayong ZHOU(周嘉勇)**.
 
-I am a senior student majoring in **EECS** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University.
+I am a mphil student in **Red Bird Program** at The Hong kong University of Science and Technology(Guangzhou). Given my previous academic background,a B.Eng in biomedical engineering from Southern University of Science and Technology(SUSTech), I cultivate some skills and knowledges on bio-materials, synthetic biology, circuit simulation and design, deep learning and image processing. Currently, I am working on computer vision utilized in medical images.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - jzhou240@connect.hkust-gz.edu.cn or 11910606@mail.sustech.edu.cn
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
-- Expect to apply for a one-year Mphil program and graduate in Sep 2025. Looking for PhD position after that.
+- **Sep 2019 - June 2023:** Southern University of Science and Technology (BEng)
+- **Sep 2023 - June 2024 (expected):** The Hong kong University of Science and Technology(Guangzhou) (Mphil)
+- Expect to apply for a Ph.D. program after that.
 
 <br>
 
@@ -29,24 +28,16 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Industrial IoT System
-- Network Cybersecurity
-- Applied Machine Learning
+- Brain Computer Interface in Rehabilitation 
+- Synthetic Biology 
+- Deep Learning in Medical Image Processing 
+- Microelectronics 
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+What I am really keen on and devoted to from an early age is the attempt to substitute impaired or senescent organs or reserve crucial consciousness under the poignant scenarios, either formidable cancers or adverse accidents. Combination materials and biology with electronically advanced development could be a comprehensive method to resolve those human diseases veritably, and that’s one of the reasons I decided to major in biomedical engineering. Besides, I got exposed to versatile courses related to image processing, machine learning, and numerous data processing curriculums. In hope that what I have learned could assist me in the realm of digital healthcare or medical data interpretation, for a better modern therapeutic outcome efficiently. The versatile research experiences in SUSTech show me interdisciplinary insight and I firmly believe what I distinguish from other possible candidates might be the enrichment of that multidisciplinary knowledge, relevant project experiences, and solid experimental skills learned in SUSTech, which I have always appreciated for. 
 
 <br>
 
 ---
 
-## News and Updates
 
-- **Sep 2023：**Our work [DefenderIoT](https://fzuiot.site/) has been reported by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Started research program at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
-
-<br>
 
